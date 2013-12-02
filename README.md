@@ -1,4 +1,4 @@
 ticket
 ======
 
-就是订机票的
+this is a book airline ticket software
